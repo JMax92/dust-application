@@ -16,7 +16,11 @@ I joined Arches, a B2B expert network, as employee #1 in Asia. I built operation
 
 Running an office and several teams means moving between client work, sales, operations, hiring and management decisions. My calendar shows meetings, but that is only part of the day. I also need to keep track of priorities and the work around those meetings.
 
-Orbit is the productivity workspace I build and use to help manage that workload. I’m its first user, working across the US business and our Bogotá office.
+Orbit is my executive assistant for work and life. It helps me run our US business and Bogotá office. It also helps me manage my personal life, learning and side projects.
+
+It prepares replies before I even see a Slack message, email or WhatsApp. I decide what gets sent. Its newsfeed covers client news and activity for sales, and changes in Colombian laws for operations.
+
+A founder can start with replies ready to review, a clear task list and useful news already gathered. There is less catching up to do before getting to work.
 
 ### What it demonstrates
 
@@ -119,8 +123,11 @@ These public project pages give more context on my work under MinutesBack. The l
 | Project | What it does | Public material and caveat |
 | --- | --- | --- |
 | [Snipbird](https://github.com/MinutesBack/snipbird) | Clipboard history, reusable message templates and local actions for macOS. | Documentation and website. The public download is currently paused pending release checks. The application source is not in this repository. |
+| [Notchi](https://jmax92.github.io/dust-application/#notchi-preview) | Agenda, media, call audio and working files in a compact panel under the Mac notch. | In development. The portfolio shows its Quick Start welcome screen, not a released download. |
 | [OTPeek](https://github.com/MinutesBack/OTPeek) | Brings one-time login codes from mail and forwarded iPhone texts into a macOS popup. | Source and build instructions. The repository describes an ad-hoc-signed build, not a notarized commercial release. |
 | [Switcher](https://github.com/MinutesBack/Switcher) | Helps move between individual application windows with previews and search. | A modified GPL-3.0 distribution of AltTab. The original authors and project remain credited. |
+
+The website also includes a Snipbird interface preview with demo clips and Notchi’s Quick Start screenshot. Both were checked for private information before inclusion. No live clipboard contents, login codes or personal schedules are shown.
 
 ## Why I’m interested in Dust
 
