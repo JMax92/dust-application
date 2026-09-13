@@ -2,13 +2,15 @@
 
 [View the application portfolio website](https://jmax92.github.io/dust-application/)
 
-I’m applying for Dust’s **Founding Customer Success Manager** role in London. This page brings together the tools I build and the work I do with teams and enterprise clients.
+I’d like to help Dust’s customers put AI to work in their teams. I’m applying for the **Founding Customer Success Manager** role in London. This page brings together my enterprise account experience and the tools I build for myself and my teams.
 
 I joined Arches, a B2B expert network, as employee #1 in Asia. I built operations, then sales and account management. Today, I lead our US business and Colombian entity. Alongside that work, I build AI workflows and productivity apps to solve problems I encounter myself.
 
 **Start with [Orbit](#orbit-managing-a-busy-operating-day) and [Sales Copilot](#sales-copilot-outreach-follow-up-and-coaching).** They are the closest examples of what I would bring to Dust: understanding the work, building a useful tool and helping people use it.
 
 [LinkedIn](https://www.linkedin.com/in/jeanmaxime/) · [The role](https://jobs.ashbyhq.com/dust/d0c2e002-429b-4790-bbd0-2a11428ce3b7) · [Other productivity projects](#other-productivity-projects)
+
+[Why I want to join Dust](https://jmax92.github.io/dust-application/#why-dust) · [Orbit](https://jmax92.github.io/dust-application/#orbit) · [Sales Copilot](https://jmax92.github.io/dust-application/#sales-copilot) · [My full experience](https://jmax92.github.io/dust-application/#experience)
 
 ## Orbit: managing a busy operating day
 
@@ -99,6 +101,8 @@ These are my reported operating figures. The conversion figures describe before-
 
 Arches arranges research interviews with senior executives for consulting firms, private-equity firms, hedge funds and corporate clients. I have spent seven years winning and developing those accounts, first in Asia and now in the US.
 
+Arches now has 330+ people and USD 40M in annual revenue company-wide. I built operations, then sales and account management in Asia, growing the business I led to USD 12M annually before moving to Colombia to launch our US business. Since May 2025, I’ve built our Bogotá office to 50+ people.
+
 - Built operations before building sales and account management, so I understand the delivery work behind a commercial promise.
 - Personally take accounts from initial outreach through vendor approval, negotiation and paid delivery.
 - Built and lead an approximately 18-person commercial team, with coaching, account planning and performance standards.
@@ -129,16 +133,22 @@ These public project pages give more context on my work under MinutesBack. The l
 
 The website also includes a Snipbird interface preview with demo clips and Notchi’s Quick Start screenshot. Both were checked for private information before inclusion. No live clipboard contents, login codes or personal schedules are shown.
 
-## Why I’m interested in Dust
+## Why I want to join Dust
 
-Dust connects company knowledge and tools so teams can build and use agents in their work. That is the kind of work I want to spend more of my time on: understand the customer’s problem, find a useful starting point, help the team use it and improve it from their feedback.
+I want to move into AI and help customers get useful work done with it. That brings together the account development and tool building I already do.
 
-My experience so far combines B2B account management with internal tools. I have not yet led a large external customer’s AI deployment, and I do not present these projects as Dust implementations. I would bring practical experience of building functions, serving demanding clients and getting a team to use an AI workflow every day.
+[Dust lets teams build agents around their own knowledge and tools](https://dust.tt). I’d like to help customers choose a useful first task, get people using it and improve it from their feedback.
+
+On a smaller scale, I make the decisions your customers make: what to automate, where a person needs to check the result and whether the team actually uses it.
+
+I’m always trying to save time and clicks, for myself and my team. Orbit helps me manage the day. Sales Copilot helps the team write better messages. I want to do this work with customers outside my own company.
+
+These tools weren’t built with Dust. My AI rollout experience is with my own teams, not large external customers.
 
 If useful, I can walk through Orbit and Sales Copilot using non-confidential examples during an interview.
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/jeanmaxime/)
+[Pick a time to talk](https://calendar.app.google/J4yKcqgkETN4ke339) · [Connect with me on LinkedIn](https://www.linkedin.com/in/jeanmaxime/)
 
 ---
 
-Prepared for my Dust application on 12 September 2026. This is my personal portfolio, not an official Dust or Arches page. No client records, internal schedules, private source code or credentials are included.
+Prepared for my Dust application on 12 September 2026. Copy and navigation updated on 13 September 2026. This is my personal portfolio, not an official Dust or Arches page. No client records, internal schedules, private source code or credentials are included.
