@@ -1,5 +1,7 @@
 # Maxime Jean · My application to Dust
 
+[View the application portfolio website](https://jmax92.github.io/dust-application/)
+
 I’m applying for Dust’s **Founding Customer Success Manager** role in London. This page brings together the tools I build and the work I do with teams and enterprise clients.
 
 I joined Arches, a B2B expert network, as employee #1 in Asia. I built operations, then sales and account management. Today, I lead our US business and Colombian entity. Alongside that work, I build AI workflows and productivity apps to solve problems I encounter myself.
@@ -33,7 +35,7 @@ Orbit is the productivity workspace I build and use to help manage that workload
 | A commitment made during a meeting | What do I need to do next? |
 | Several teams asking for help | What can I handle now, delegate or plan for later? |
 
-**Status:** a private workspace I use for my own operating work. This is a written case study, not a public product demo. I have not measured a reliable time-saving figure for Orbit, so I do not claim one here. Its source, internal records and live workspace are not published.
+**Status:** a private workspace I use for my own operating work. The portfolio website shows its actual interface with fictional demo records, not a live workspace. I have not measured a reliable time-saving figure for Orbit, so I do not claim one here. Its source, internal records and live workspace are not published.
 
 ## Sales Copilot: outreach, follow-up and coaching
 
